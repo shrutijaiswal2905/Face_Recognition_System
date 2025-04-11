@@ -104,8 +104,6 @@ python face_detection.py
 
 👁️ Real-time rectangles appear on all detected faces until the user quits the session.
 
-*(You can add screenshots here if you'd like!)*
-
 ---
 
 ## 🔧 Future Improvements
